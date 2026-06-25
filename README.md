@@ -4,40 +4,44 @@
 </p>
 
 <h1 align="center">🌌 Syntropy</h1>
-<h3 align="center">Advanced Evolutionary Life Engine & Interactive Live Wallpaper</h3>
+<h3 align="center">Синтропия — Эволюция Войны / The Evolution of War</h3>
 
+<!-- ВСТРОЕННЫЕ ТЕГИ -->
 <p align="center">
-  <img src="https://shields.io" alt="C++17"/>
-  <img src="https://shields.io" alt="SFML"/>
-  <img src="https://shields.io" alt="GLSL"/>
-  <img src="https://shields.io" alt="Platforms"/>
+  <code><b>C++17</b></code> &nbsp; 
+  <code><b>SFML</b></code> &nbsp; 
+  <code><b>GLSL</b></code> &nbsp; 
+  <code><b>Windows</b></code> &nbsp; 
+  <code><b>Linux</b></code>
+</p>
+
+<!-- КНОПКИ СКАЧИВАНИЯ -->
+<p align="center">
+  <a href="ССЫЛКА_НА_ФАЙЛ_ДЛЯ_WINDOWS"><b>[ Скачать для Windows ]</b></a> &nbsp;&nbsp;|&nbsp;&nbsp; 
+  <a href="ССЫЛКА_НА_ФАЙЛ_ДЛЯ_LINUX"><b>[ Скачать для Linux ]</b></a>
 </p>
 
 <p align="center">
-  <b>Syntropy</b> — это интерактивные живые обои, превращающие ваш рабочий стол в цифровую экосистему. Проект развивает идею легендарного клеточного автомата «Жизнь» Конвея, превращая ее в масштабную симуляцию эволюции, мутаций и соперничества искусственных фракций.
+  <b>Syntropy</b> — это интерактивные живые обои, превращающие ваш рабочий стол в цифровую экосистему. Проект представляет собой масштабную процедурную симуляцию эволюции, мутаций и динамического соперничества искусственных фракций.
 </p>
 
 <p align="center">
   Разные ИИ-команды рождаются, воюют за территории и развиваются прямо под иконками вашего рабочего стола, создавая завораживающие неоновые визуальные эффекты.
 </p>
 
+<p align="center">
+  Приложение полностью портативно: запускается без установки и прав администратора, работает из одной папки и не оставляет лишних файлов в системе.
+</p>
+
 ---
 
-<!-- СЕТКА С ДЕМОНСТРАЦИЕЙ (СКРИНШОТЫ) -->
-<h2>📸 Галерея / Media</h2>
+<!-- БЛОК С ВИДЕОДЕМОНСТРАЦИЕЙ -->
+<h2>📸 Демонстрация работы / Media</h2>
 <p align="center">
-  <table border="0" cellpadding="5" cellspacing="0">
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://github.com" width="100%" style="border-radius: 8px; border: 1px solid #333;" alt="Faction Wars"/><br/>
-        <sub><b>Война фракций и неоновый Bloom-эффект</b></sub>
-      </td>
-      <td align="center" width="50%">
-        <img src="https://github.com" width="100%" style="border-radius: 8px; border: 1px solid #333;" alt="Control Panel"/><br/>
-        <sub><b>Панель управления и кастомизация параметров</b></sub>
-      </td>
-    </tr>
-  </table>
+  <!-- Просто перетащите сюда ваше видео (.mp4/.mov) или зацикленный .gif файл -->
+  https://github.com
+  <br/>
+  <sub><b>Видеодемонстрация работы движка Syntropy на рабочем столе</b></sub>
 </p>
 
 ---
@@ -52,7 +56,7 @@
   </tr>
   <tr>
     <td><b>🧬 Процедурные мутации</b></td>
-    <td>Движок рассчитывает вероятность спонтанных биологических мутаций, порождая новые виды со своей палитрой по Золотому Сечению, не позволяя миру стать однообразным.</td>
+    <td>Движок рассчитывает вероятность спонтанных биологических мутаций, порождая новые виды со своей палитрой, что не позволяет миру стать однообразным.</td>
   </tr>
   <tr>
     <td><b>🎨 Шейдерные эффекты</b></td>
@@ -96,11 +100,10 @@
   Следить за обновлениями, смотреть демонстрации ранних прототипов и поддержать автора можно на официальной странице проекта:
 </p>
 
-<a href="https://boosty.to" target="_blank">
-  <img src="https://shields.io" alt="Boosty Support"/>
-</a>
+<p align="left">
+  👉 <b><a href="https://boosty.to" target="_blank">pic на Boosty</a></b>
+</p>
 
-<br/>
 <br/>
 
 <sub><i>Syntropy © 2026 pic. Проект распространяется под свободной лицензией MIT.</i></sub>
