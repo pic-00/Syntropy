@@ -1,10 +1,7 @@
 <!-- ЦЕНТРАЛЬНЫЙ ХЕДЕР -->
-<p align="center">
-  <img src="https://github.com" width="130" height="130" alt="Syntropy Logo"/>
-</p>
 
-<h1 align="center">🌌 SYNTROPY</h1>
-<h3 align="center">Синтропия — Эволюция Войны / The Evolution of War</h3>
+<h1 align="center">🧬 SYNTROPY</h1>
+<h3 align="center">Эволюция Войны / The Evolution of War</h3>
 
 <!-- ВСТРОЕННЫЕ ТЕГИ -->
 <p align="center">
