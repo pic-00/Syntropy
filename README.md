@@ -19,7 +19,7 @@
 <h3 align="center">
   <a href="ССЫЛКА_НА_ФАЙЛ_ДЛЯ_WINDOWS">📥 Скачать для Windows</a> 
   &nbsp;&nbsp;|&nbsp;&nbsp; 
-  <a href="ССЫЛКА_НА_ФАЙЛ_ДЛЯ_LINUX">📥 Скачать для Linux</a>
+  <a href="https://github.com/pic-00/Syntropy/releases/download/Syntropy/Syntropy">📥 Скачать для Linux</a>
 </h3>
 
 <p align="center">
