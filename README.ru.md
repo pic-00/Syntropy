@@ -1,7 +1,11 @@
-<!-- ЦЕНТРАЛЬНЫЙ ХЕДЕР -->
+<p align="center">
+  <a href="README.md"><img src="https://shields.io" alt="English"></a>
+  &nbsp;
+  <a href="README.ru.md"><img src="https://shields.io" alt="Русский"></a>
+</p>
 
 <h1 align="center">🧬 SYNTROPY</h1>
-<h3 align="center">Эволюция Войны / The Evolution of War</h3>
+<h3 align="center">Эволюция Войны</h3>
 
 <!-- ВСТРОЕННЫЕ ТЕГИ -->
 <p align="center">
@@ -14,14 +18,15 @@
 
 <!-- СКАЧИВАНИЕ -->
 <h3 align="center">
-  <a href="https://github.com/pic-00/Syntropy/releases/download/v1.3_windows/Syntropy.exe">📥 Скачать для Windows</a> 
+  <a href="https://github.com">📥 Скачать для Windows</a> 
   &nbsp;&nbsp;|&nbsp;&nbsp; 
-  <a href="https://github.com/pic-00/Syntropy/releases/download/v1.3_linux_mint/Syntropy">📥 Скачать для Linux Mint</a>
+  <a href="https://github.com">📥 Скачать для Linux Mint</a>
 </h3>
 
 <p align="center">
   <b>Syntropy</b> — это интерактивные живые обои, превращающие ваш рабочий стол в полноценную цифровую экосистему с масштабной процедурной симуляцией эволюции. Прямо под системными иконками независимые ИИ-команды рождаются, мутируют и ведут динамичную войну за территории, создавая завораживающее неоновые зрелище.
 </p>
+
 
 ---
 
