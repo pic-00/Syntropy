@@ -17,9 +17,9 @@
 
 <!-- DOWNLOADS -->
 <h3 align="center">
-  <a href="https://github.com">📥 Download for Windows</a> 
+  <a href="https://github.com/pic-00/Syntropy/releases/download/v1.3/Syntropy.exe">📥 Download for Windows</a> 
   &nbsp;&nbsp;|&nbsp;&nbsp; 
-  <a href="https://github.com">📥 Download for Linux Mint</a>
+  <a href="https://github.com/pic-00/Syntropy/releases/download/v1.3/Syntropy">📥 Download for Linux Mint</a>
 </h3>
 
 <p align="center">
