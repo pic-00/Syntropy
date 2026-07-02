@@ -1,8 +1,7 @@
 <p align="center">
-  <a href="README.md"><img src="https://shields.io" alt="English"></a>
-  &nbsp;
-  <a href="README.ru.md"><img src="https://shields.io" alt="Русский"></a>
+  <a href="README.md">English</a> &nbsp;|&nbsp; <b>Русский</b>
 </p>
+
 
 <h1 align="center">🧬 SYNTROPY</h1>
 <h3 align="center">Эволюция Войны</h3>
