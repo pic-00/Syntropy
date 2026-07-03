@@ -37,7 +37,7 @@
 
 https://github.com/user-attachments/assets/ba554c89-cace-4bfb-ac58-db3ac0a039d8
 
-## <sub>🧩 Key Features</sub>
+## <sub>Key Features:</sub>
 
 <ul>
   <li><sub><b>⚔️ Faction Wars:</b> Cells divide into independent teams with unique colors. They engage in continuous expansion, capture rival territories, and fight for real-time dominance.</sub></li>
@@ -50,7 +50,7 @@ https://github.com/user-attachments/assets/ba554c89-cace-4bfb-ac58-db3ac0a039d8
   <li><sub><b>⚙️ Control Panel:</b> A convenient system tray menu (next to the clock) allows you to adjust evolution speed, AI aggression, cell size, grid gaps, bloom intensity, and other parameters.</sub></li>
 </ul>
 
-## <sub>⚡ Optimization & Performance</sub>
+## <sub>Optimization & Performance:</sub>
 
 <ul>
   <li><sub><b>🖥️ Multi-Monitor Support:</b> Full support for multiple displays and ultra-wide screens. The live wallpaper seamlessly stretches across the entire workspace and works perfectly as a single unit across screen edges.</sub></li>
