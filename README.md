@@ -37,7 +37,7 @@
 
 https://github.com/user-attachments/assets/ba554c89-cace-4bfb-ac58-db3ac0a039d8
 
-## ✨ Key Features
+## ✨ Key Features:
 
 * **⚔️ Faction Wars:** Cells divide into independent teams with unique colors. They engage in continuous expansion, capture rival territories, and fight for real-time dominance.
 * **🧬 Procedural Mutations:** The engine calculates the probability of spontaneous biological mutations, generating new species with their own color palettes. This makes every simulation unique.
@@ -48,7 +48,7 @@ https://github.com/user-attachments/assets/ba554c89-cace-4bfb-ac58-db3ac0a039d8
 * **🛰️ Parallax Effect:** The image smoothly shifts following your mouse cursor movements, creating a deep and realistic pseudo-3D effect.
 * **⚙️ Control Panel:** A convenient system tray menu (next to the clock) allows you to adjust evolution speed, AI aggression, cell size, grid gaps, bloom intensity, and other parameters.
 
-## ⚡ Optimization & Performance
+## ⚡ Optimization & Performance:
 
 * **🖥️ Multi-Monitor Support:** Full support for multiple displays and ultra-wide screens. The live wallpaper seamlessly stretches across the entire workspace and works perfectly as a single unit across screen edges.
 * **🚀 Run on Any Hardware:** The code is ultra-lightweight and highly optimized at a low level. The wallpaper will run smoothly even on a weak laptop without impacting overall system performance.
