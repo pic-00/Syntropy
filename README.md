@@ -6,15 +6,6 @@
 <h1 align="center">🧬 SYNTROPY</h1>
 <h3 align="center">The Evolution of War</h3>
 
-<!-- TECH STACK -->
-<p align="center">
-  <code><b>C++17</b></code> &nbsp; 
-  <code><b>SFML</b></code> &nbsp; 
-  <code><b>GLSL</b></code> &nbsp; 
-  <code><b>Windows</b></code> &nbsp; 
-  <code><b>Linux</b></code>
-</p>
-
 <!-- DOWNLOADS -->
 <table align="center" style="border: none; border-collapse: collapse; border-spacing: 0;">
   <tr style="border: none;">
