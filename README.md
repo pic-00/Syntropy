@@ -26,10 +26,4 @@
   <b>Syntropy</b> is an interactive live wallpaper that transforms your desktop into a fully realized digital ecosystem featuring a massive procedural evolution simulation. Right beneath your system icons, independent AI teams are born, mutate, and wage dynamic territory wars, creating a mesmerizing neon spectacle.
 </p>
 
-<p align="center">
-  <video src="https://github.com/user-attachments/assets/ba554c89-cace-4bfb-ac58-db3ac0a039d8" width="100%" height="auto" loop controls></video>
-</p>
-
-
-
-
+https://github.com/user-attachments/assets/ba554c89-cace-4bfb-ac58-db3ac0a039d8
