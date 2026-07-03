@@ -22,7 +22,7 @@
     <td align="center" style="border: none; padding: 0 30px; vertical-align: top;">
       <a href="https://github.com/pic-00/Syntropy/releases/download/v1.3/Syntropy.exe"><b>📥 Download for Windows</b></a>
       <br><br>
-      <a href="https://www.virustotal.com/gui/file/74630fa57a42db9a18e6eac6b01587b44aa404216128caab65724709c7ef1c27" target="_blank" rel="noopener noreferrer">
+      <a href="https://www.virustotal.com/gui/file/74630fa57a42db9a18e6eac6b01587b44aa404216128caab65724709c7ef1c27">
         <img src="https://img.shields.io/badge/VirusTotal-0%2F70%20Clean-brightgreen?logo=virustotal&style=for-the-badge" alt="VirusTotal Windows" height="22">
       </a>
     </td>
@@ -30,7 +30,7 @@
     <td align="center" style="border: none; padding: 0 30px; vertical-align: top;">
       <a href="https://github.com/pic-00/Syntropy/releases/download/v1.3/Syntropy"><b>📥 Download for Linux Mint</b></a>
       <br><br>
-      <a href="https://www.virustotal.com/gui/file/76e60503b41f972c6b1a95730f31dd2bc48b69fd055414891d0b02941c0cb5a7" target="_blank" rel="noopener noreferrer">
+      <a href="https://www.virustotal.com/gui/file/76e60503b41f972c6b1a95730f31dd2bc48b69fd055414891d0b02941c0cb5a7">
         <img src="https://img.shields.io/badge/VirusTotal-0%2F64%20Clean-brightgreen?logo=virustotal&style=for-the-badge" alt="VirusTotal Linux" height="22">
       </a>
     </td>
