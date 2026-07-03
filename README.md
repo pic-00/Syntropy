@@ -56,7 +56,7 @@ https://github.com/user-attachments/assets/ba554c89-cace-4bfb-ac58-db3ac0a039d8
 * **💾 Persistent World:** The application carefully serializes the current cell map. After a system reboot, the simulation resumes exactly where it left off.
 * **📦 Portable & Clean:** The application is fully portable. It runs without installation or administrator privileges, works entirely from a single folder, and leaves no leftover files in the system.
 ---
-<sub>*The application runs for free in demo mode with nearly full functionality. If you enjoy the project, you can support the author with a donation of any amount on [Boosty](https://boosty.to/pic-0) to receive a lifetime activation key.*</sub>
+<sub>*The application runs for free in demo mode with nearly full functionality. If you enjoy the project, you can support the author with a donation of any amount on [Boosty](https://boosty.to/pic0) to receive a lifetime activation key.*</sub>
 <br>
 <p align="center">
   <sub>Syntropy © 2026 pic</sub>
