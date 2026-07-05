@@ -18,7 +18,7 @@
       <a href="https://github.com/pic-00/Syntropy/releases/download/v1.3/Syntropy.exe"><b>📥 Скачать для Windows</b></a>
       <br><br>
       <a href="https://www.virustotal.com/gui/file/74630fa57a42db9a18e6eac6b01587b44aa404216128caab65724709c7ef1c27">
-        <img src="https://img.shields.io/badge/VirusTotal-0%2F70%20Clean-brightgreen?logo=virustotal&style=for-the-badge" alt="VirusTotal Windows" height="28">
+        <img src="https://img.shields.io/badge/VirusTotal-0%2F70%20Clean-brightgreen?logo=virustotal&style=for-the-badge" alt="VirusTotal Windows" height="24">
       </a>
     </td>
     <!-- Блок Linux -->
@@ -26,11 +26,14 @@
       <a href="https://github.com/pic-00/Syntropy/releases/download/v1.3/Syntropy"><b>📥 Скачать для Linux Mint</b></a>
       <br><br>
       <a href="https://www.virustotal.com/gui/file/76e60503b41f972c6b1a95730f31dd2bc48b69fd055414891d0b02941c0cb5a7">
-        <img src="https://img.shields.io/badge/VirusTotal-0%2F64%20Clean-brightgreen?logo=virustotal&style=for-the-badge" alt="VirusTotal Linux" height="28">
+        <img src="https://img.shields.io/badge/VirusTotal-0%2F64%20Clean-brightgreen?logo=virustotal&style=for-the-badge" alt="VirusTotal Linux" height="24">
       </a>
     </td>
   </tr>
 </table>
+<p align="center">
+  <sub><i>* Портативное приложение: работает без установки и прав администратора.</i></sub>
+</p>
 
 https://github.com/user-attachments/assets/2cb335ca-258c-40c4-b205-cb9883264acb
 
@@ -54,7 +57,6 @@ https://github.com/user-attachments/assets/2cb335ca-258c-40c4-b205-cb9883264acb
   <li><sub><b>🚀 Запуск на любом железе:</b> Код максимально облегчен и оптимизирован на низком уровне. Обои без проблем «полетят» даже на слабом ноутбуке без вреда для общей производительности системы.</sub></li>
   <li><sub><b>🎮 Умная автопауза:</b> Обои полностью останавливают все расчеты и снижают нагрузку на видеокарту и процессор до нуля, когда вы запускаете игры, смотрите видео или открываете приложения на весь экран.</sub></li>
   <li><sub><b>💾 Постоянство мира:</b> Приложение умеет бережно сохранять текущую карту клеток. После перезапуска системы симуляция продолжится ровно с того же кадра.</sub></li>
-  <li><sub><b>📦 Портативность и чистота:</b> Приложение полностью портативно. Оно запускается без установки и прав администратора, работает из одной папки и не оставляет лишних файлов в системе.</sub></li>
 </ul>
 
 ---
