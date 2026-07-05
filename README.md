@@ -6,6 +6,11 @@
 <h1 align="center">🧬SYNTROPY</h1>
 <h3 align="center">The Evolution of War</h3>
 
+<p align="center">
+  <b>Syntropy</b> is an interactive live wallpaper that transforms your desktop into a digital ecosystem. It is powered by a procedural evolution simulation where autonomous AI teams are born, mutate, and wage dynamic territory wars, creating spectacular neon battles right beneath your icons.
+
+</p>
+
 <!-- DOWNLOADS -->
 <table align="center" style="border: none; border-collapse: collapse; border-spacing: 0;">
   <tr style="border: none;">
@@ -14,7 +19,7 @@
       <a href="https://github.com/pic-00/Syntropy/releases/download/v1.3/Syntropy.exe"><b>📥 Download for Windows</b></a>
       <br><br>
       <a href="https://www.virustotal.com/gui/file/74630fa57a42db9a18e6eac6b01587b44aa404216128caab65724709c7ef1c27">
-        <img src="https://img.shields.io/badge/VirusTotal-0%2F70%20Clean-brightgreen?logo=virustotal&style=for-the-badge" alt="VirusTotal Windows" height="28">
+        <img src="https://img.shields.io/badge/VirusTotal-0%2F70%20Clean-brightgreen?logo=virustotal&style=for-the-badge" alt="VirusTotal Windows" height="24">
       </a>
     </td>
     <!-- Блок Linux -->
@@ -22,17 +27,14 @@
       <a href="https://github.com/pic-00/Syntropy/releases/download/v1.3/Syntropy"><b>📥 Download for Linux Mint</b></a>
       <br><br>
       <a href="https://www.virustotal.com/gui/file/76e60503b41f972c6b1a95730f31dd2bc48b69fd055414891d0b02941c0cb5a7">
-        <img src="https://img.shields.io/badge/VirusTotal-0%2F64%20Clean-brightgreen?logo=virustotal&style=for-the-badge" alt="VirusTotal Linux" height="28">
+        <img src="https://img.shields.io/badge/VirusTotal-0%2F64%20Clean-brightgreen?logo=virustotal&style=for-the-badge" alt="VirusTotal Linux" height="24">
       </a>
     </td>
   </tr>
 </table>
-<br>
-
 
 <p align="center">
-  <b>Syntropy</b> is an interactive live wallpaper that transforms your desktop into a digital ecosystem. It is powered by a procedural evolution simulation where autonomous AI teams are born, mutate, and wage dynamic territory wars, creating spectacular neon battles right beneath your icons.
-
+  <sub><i>* Portable application: requires no installation or administrator privileges.</i></sub>
 </p>
 
 https://github.com/user-attachments/assets/2cb335ca-258c-40c4-b205-cb9883264acb
@@ -57,7 +59,6 @@ https://github.com/user-attachments/assets/2cb335ca-258c-40c4-b205-cb9883264acb
   <li><sub><b>🚀 Run on Any Hardware:</b> The code is ultra-lightweight and highly optimized at a low level. The wallpaper will run smoothly even on a weak laptop without impacting overall system performance.</sub></li>
   <li><sub><b>🎮 Smart Auto-Pause:</b> The wallpaper completely stops all calculations, reducing GPU and CPU load to absolute zero whenever you launch games, watch videos, or open fullscreen applications.</sub></li>
   <li><sub><b>💾 Persistent World:</b> The application carefully serializes the current cell map. After a system reboot, the simulation resumes exactly where it left off.</sub></li>
-  <li><sub><b>📦 Portable & Clean:</b> The application is fully portable. It runs without installation or administrator privileges, works entirely from a single folder, and leaves no leftover files in the system.</sub></li>
 </ul>
 
 ---
