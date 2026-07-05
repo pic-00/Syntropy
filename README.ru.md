@@ -32,7 +32,7 @@
   </tr>
 </table>
 
-https://github.com/user-attachments/assets/5207066e-f843-4c26-b4ee-ae43bd6e2e46
+https://github.com/user-attachments/assets/2cb335ca-258c-40c4-b205-cb9883264acb
 
 ## <sub>Ключевые возможности:</sub>
 
