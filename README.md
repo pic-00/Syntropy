@@ -55,7 +55,7 @@ https://github.com/user-attachments/assets/2cb335ca-258c-40c4-b205-cb9883264acb
 
 <ul>
   <li><sub><b>🖥️ Multi-Monitor Support:</b> Full support for multiple displays and ultra-wide screens. The live wallpaper seamlessly stretches across the entire workspace and works perfectly as a single unit across screen edges.</sub></li>
-  <li><sub><b>⚡ Architecture:</b> Written entirely in C++17 and SFML without any third-party engines. All graphical effects are hardware-accelerated via custom GLSL shaders.</sub></li>
+  <li><sub><b>⚡ Architecture:</b> Written entirely in C++20 and SFML 3 without any third-party engines. All graphical effects are hardware-accelerated via custom GLSL shaders.</sub></li>
   <li><sub><b>🚀 Run on Any Hardware:</b> The code is ultra-lightweight and highly optimized at a low level. The wallpaper will run smoothly even on a weak laptop without impacting overall system performance.</sub></li>
   <li><sub><b>🎮 Smart Auto-Pause:</b> The wallpaper completely stops all calculations, reducing GPU and CPU load to absolute zero whenever you launch games, watch videos, or open fullscreen applications.</sub></li>
   <li><sub><b>💾 Persistent World:</b> The application carefully serializes the current cell map. After a system reboot, the simulation resumes exactly where it left off.</sub></li>
