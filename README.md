@@ -4,10 +4,9 @@
 
 
 <h1 align="center">🧬SYNTROPY</h1>
-<h3 align="center">The Evolution of War</h3>
 
 <p align="center">
-  <b>Syntropy</b> is an interactive live wallpaper that transforms your desktop into a digital ecosystem. It is powered by a procedural evolution simulation where autonomous AI teams are born, mutate, and wage dynamic territory wars, creating spectacular neon battles right beneath your icons.
+  <b>Syntropy</b> An interactive live wallpaper that transforms your desktop into a digital ecosystem. Driven by a procedural evolution simulation based on Conway's Game of Life, colorful cell clans are born, mutate, and wage war over territory—creating spectacular neon battles right beneath your icons.
 
 </p>
 
