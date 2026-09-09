@@ -63,7 +63,7 @@ https://github.com/user-attachments/assets/2cb335ca-258c-40c4-b205-cb9883264acb
 
 ---
 
-<sub>*🔑  The application runs for free in demo mode with nearly full functionality. If you enjoy the project, you can support the author with a donation of any amount on [Boosty](https://boosty.to/pic0) to receive a lifetime activation key.*</sub>
+<sub>*🔑  The application runs in demo mode with nearly full functionality. If you enjoy the project, you can support the author with a donation on [Boosty](https://boosty.to/pic0) to receive an activation key.*</sub>
 
 <br>
 <p align="center">
