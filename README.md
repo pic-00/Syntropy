@@ -16,10 +16,10 @@
   <tr style="border: none;">
     <!-- Блок Windows -->
     <td align="center" style="border: none; padding: 0 30px; vertical-align: top;">
-      <a href="https://github.com/pic-00/Syntropy/releases/download/v1.4/Syntropy.exe"><b>📥 Download for Windows</b></a>
+      <a href="https://github.com/pic-00/Syntropy/releases/download/v1.5/Syntropy.exe"><b>📥 Download for Windows</b></a>
       <br><br>
-      <a href="https://www.virustotal.com/gui/file/615a0317c0beef541746ed0ae1ecf95ed39e7b22e7f9f48f1b404992f67f059d">
-        <img src="https://img.shields.io/badge/VirusTotal-0%2F68%20Clean-brightgreen?logo=virustotal&style=for-the-badge" alt="VirusTotal Windows" height="24">
+      <a href="https://www.virustotal.com/gui/file/cb69a96a9e96500c51fcb3e4326129c7d87ee5c8cf2dd9fa69dfa08c2f1ed78b">
+        <img src="https://img.shields.io/badge/VirusTotal-0%2F70%20Clean-brightgreen?logo=virustotal&style=for-the-badge" alt="VirusTotal Windows" height="24">
       </a>
     </td>
     <!-- Блок Linux -->
