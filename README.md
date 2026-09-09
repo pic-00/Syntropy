@@ -6,7 +6,7 @@
 <h1 align="center">🧬SYNTROPY</h1>
 
 <p align="center">
-  <b>Syntropy</b> An interactive live wallpaper that transforms your desktop into a digital ecosystem. Driven by a procedural evolution simulation based on Conway's Game of Life, colorful cell clans are born, mutate, and wage war over territory—creating spectacular neon battles right beneath your icons.
+<b>An interactive live wallpaper that transforms your desktop into a digital ecosystem. Driven by a procedural evolution simulation based on Conway's Game of Life, colorful cell clans are born, mutate, and wage war over territory—creating spectacular neon battles right beneath your icons.</b>
 
 </p>
 
