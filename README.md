@@ -59,6 +59,7 @@ https://github.com/user-attachments/assets/2cb335ca-258c-40c4-b205-cb9883264acb
   <li><sub><b>🚀 Run on Any Hardware:</b> The code is ultra-lightweight and highly optimized at a low level. The wallpaper will run smoothly even on a weak laptop without impacting overall system performance.</sub></li>
   <li><sub><b>🎮 Smart Auto-Pause:</b> The wallpaper completely stops all calculations, reducing GPU and CPU load to absolute zero whenever you launch games, watch videos, or open fullscreen applications.</sub></li>
   <li><sub><b>💾 Persistent World:</b> The application carefully serializes the current cell map. After a system reboot, the simulation resumes exactly where it left off.</sub></li>
+  <li><sub><b>🌐 Offline:</b> The application works completely offline and requires no internet connection.</sub></li>
 </ul>
 
 ---
