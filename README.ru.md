@@ -4,8 +4,6 @@
 
 
 <h1 align="center">🧬 SYNTROPY</h1>
-<h3 align="center">Эволюция Войны</h3>
-
 
 <p align="center">
 <b>Интерактивные живые обои, превращающие рабочий стол в цифровую экосистему. В основе лежит процедурная симуляция эволюции по правилам игры «Жизнь» Конвея: цветные кланы клеток рождаются, мутируют и ведут войну за территории, создавая зрелищные неоновые баталии прямо под вашими иконками.</b>
@@ -17,7 +15,7 @@
     <td align="center" style="border: none; padding: 0 30px; vertical-align: top;">
       <a href="https://github.com/pic-00/Syntropy/releases/download/v1.4/Syntropy.exe"><b>📥 Скачать для Windows</b></a>
       <br><br>
-      <a href="https://www.virustotal.com/gui/file/615a0317c0beef541746ed0ae1ecf95ed39e7b22e7f9f48f1b404992f67f059d">
+      <a href="https://www.virustotal.com/gui/file/0c87efebccae6b4c6b1b91202ff0dede48fe702a040b7b30699d7d2922c9bc7b">
         <img src="https://img.shields.io/badge/VirusTotal-0%2F68%20Clean-brightgreen?logo=virustotal&style=for-the-badge" alt="VirusTotal Windows" height="24">
       </a>
     </td>
