@@ -17,7 +17,7 @@
     <td align="center" style="border: none; padding: 0 30px; vertical-align: top;">
       <a href="https://github.com/pic-00/Syntropy/releases/download/v1.5/Syntropy.exe"><b>📥 Download for Windows</b></a>
       <br><br>
-      <a href="https://www.virustotal.com/gui/file/0c87efebccae6b4c6b1b91202ff0dede48fe702a040b7b30699d7d2922c9bc7b">
+      <a href="https://www.virustotal.com/gui/file/9b516120f22c179275eec7c8c719df43eae89a82e5366d8ffbca55d943ff034a">
         <img src="https://img.shields.io/badge/VirusTotal-0%2F71%20Clean-brightgreen?logo=virustotal&style=for-the-badge" alt="VirusTotal Windows" height="24">
       </a>
     </td>
