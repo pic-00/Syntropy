@@ -23,7 +23,7 @@
     <td align="center" style="border: none; padding: 0 30px; vertical-align: top;">
       <a href="https://github.com/pic-00/Syntropy/releases/download/v1.4/Syntropy"><b>📥 Скачать для Linux Mint</b></a>
       <br><br>
-      <a href="https://www.virustotal.com/gui/file/b9367f22f1df0e95c4eab0d0c1b85123d77c059ab4380bdf75d6cd95d5947f4c">
+      <a href="https://www.virustotal.com/gui/file/ea91d42aa9e2e68bf1fd5fdb254a6cdb7423fdba4803b338437b72cb01603315">
         <img src="https://img.shields.io/badge/VirusTotal-0%2F64%20Clean-brightgreen?logo=virustotal&style=for-the-badge" alt="VirusTotal Linux" height="24">
       </a>
     </td>
