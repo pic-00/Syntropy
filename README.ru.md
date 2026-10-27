@@ -33,9 +33,7 @@
   <sub><i>* Портативное приложение: работает без установки и прав администратора.</i></sub>
 </p>
 
-
-https://github.com/user-attachments/assets/4637c10c-d2a8-4d96-ab12-5c2e0bcd3aff
-
+https://github.com/user-attachments/assets/179f4ab8-f667-4494-be66-70373fda137c
 
 ## <sub>Ключевые возможности:</sub>
 
