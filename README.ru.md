@@ -25,7 +25,7 @@
     <td align="center" style="border: none; padding: 0 30px; vertical-align: top;">
       <a href="https://github.com/pic-00/Syntropy/releases/download/v1.4/Syntropy"><b>📥 Скачать для Linux v1.4</b></a>
       <br>
-      <sub><b>KDE Plasma / LMDE<br>MATE / Cinnamon / Xfce (X11)</b></sub>
+      <sub><b>X11: KDE Plasma / LMDE<br>MATE / Cinnamon / Xfce</b></sub>
       <br><br>
       <a href="https://www.virustotal.com/gui/file/ea91d42aa9e2e68bf1fd5fdb254a6cdb7423fdba4803b338437b72cb01603315">
         <img src="https://img.shields.io/badge/VirusTotal-0%2F63%20Clean-brightgreen?logo=virustotal&style=for-the-badge" alt="VirusTotal Linux" height="24">
