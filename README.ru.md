@@ -13,7 +13,7 @@
   <tr style="border: none;">
     <!-- Блок Windows -->
     <td align="center" style="border: none; padding: 0 30px; vertical-align: top;">
-      <a href="https://github.com/pic-00/Syntropy/releases/download/v1.5/Syntropy.exe"><b>📥 Скачать для Windows v1.5</b></a>
+      <a href="https://github.com/pic-00/Syntropy/releases/download/v1.5/Syntropy.exe"><b>📥 Скачать для Windows</b></a>
       <br>
       <sub><b>Windows 10<br>Windows 11</b></sub>
       <br><br>
@@ -23,7 +23,7 @@
     </td>
     <!-- Блок Linux -->
     <td align="center" style="border: none; padding: 0 30px; vertical-align: top;">
-      <a href="https://github.com/pic-00/Syntropy/releases/download/v1.4/Syntropy"><b>📥 Скачать для Linux v1.4</b></a>
+      <a href="https://github.com/pic-00/Syntropy/releases/download/v1.4/Syntropy"><b>📥 Скачать для Linux</b></a>
       <br>
       <sub><b>X11: KDE Plasma / LMDE<br>MATE / Cinnamon / Xfce</b></sub>
       <br><br>
