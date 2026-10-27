@@ -13,7 +13,9 @@
   <tr style="border: none;">
     <!-- Блок Windows -->
     <td align="center" style="border: none; padding: 0 30px; vertical-align: top;">
-      <a href="https://github.com/pic-00/Syntropy/releases/download/v1.5/Syntropy.exe"><b>📥 Скачать для Windows</b></a>
+      <a href="https://github.com/pic-00/Syntropy/releases/download/v1.5/Syntropy.exe"><b>📥 Скачать для Windows v1.5</b></a>
+      <br>
+      <sub><b>Windows 10<br>Windows 11</b></sub>
       <br><br>
       <a href="https://www.virustotal.com/gui/file/f8a816cea7ac65c17c7aa6bb9424443ae8edf8a912bf140c7f414b7ad6a56195">
         <img src="https://img.shields.io/badge/VirusTotal-0%2F70%20Clean-brightgreen?logo=virustotal&style=for-the-badge" alt="VirusTotal Windows" height="24">
@@ -21,7 +23,9 @@
     </td>
     <!-- Блок Linux -->
     <td align="center" style="border: none; padding: 0 30px; vertical-align: top;">
-      <a href="https://github.com/pic-00/Syntropy/releases/download/v1.4/Syntropy"><b>📥 Скачать для Linux Mint</b></a>
+      <a href="https://github.com/pic-00/Syntropy/releases/download/v1.4/Syntropy"><b>📥 Скачать для Linux v1.4</b></a>
+      <br>
+      <sub><b>KDE Plasma / LMDE<br>MATE / Cinnamon / Xfce (X11)</b></sub>
       <br><br>
       <a href="https://www.virustotal.com/gui/file/ea91d42aa9e2e68bf1fd5fdb254a6cdb7423fdba4803b338437b72cb01603315">
         <img src="https://img.shields.io/badge/VirusTotal-0%2F63%20Clean-brightgreen?logo=virustotal&style=for-the-badge" alt="VirusTotal Linux" height="24">
