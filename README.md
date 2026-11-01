@@ -19,8 +19,8 @@
       <br>
       <sub><b>Windows 10<br>Windows 11</b></sub>
       <br><br>
-      <a href="https://www.virustotal.com/gui/file/f8a816cea7ac65c17c7aa6bb9424443ae8edf8a912bf140c7f414b7ad6a56195">
-        <img src="https://img.shields.io/badge/VirusTotal-0%2F70%20Clean-brightgreen?logo=virustotal&style=for-the-badge" alt="VirusTotal Windows" height="24">
+      <a href="https://www.virustotal.com/gui/file/e66356f3c8f8d3a4ca45012377f17558cd4361bc0a0ab54b79754060fb5a6979">
+        <img src="https://img.shields.io/badge/VirusTotal-0%2F71%20Clean-brightgreen?logo=virustotal&style=for-the-badge" alt="VirusTotal Windows" height="24">
       </a>
     </td>
     <!-- Блок Linux -->
@@ -29,8 +29,8 @@
       <br>
       <sub><b>X11: KDE Plasma / LMDE<br>MATE / Cinnamon / Xfce</b></sub>
       <br><br>
-      <a href="https://www.virustotal.com/gui/file/ea91d42aa9e2e68bf1fd5fdb254a6cdb7423fdba4803b338437b72cb01603315">
-        <img src="https://img.shields.io/badge/VirusTotal-0%2F63%20Clean-brightgreen?logo=virustotal&style=for-the-badge" alt="VirusTotal Linux" height="24">
+      <a href="https://www.virustotal.com/gui/file/307a454801ae2ef13364317c0de0d887d3150c58bfa00e415a6e273fe5ed9a08">
+        <img src="https://img.shields.io/badge/VirusTotal-0%2F64%20Clean-brightgreen?logo=virustotal&style=for-the-badge" alt="VirusTotal Linux" height="24">
       </a>
     </td>
   </tr>
