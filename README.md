@@ -6,7 +6,7 @@
 <h1 align="center">🧬SYNTROPY</h1>
 
 <p align="center">
-<b>Interactive live wallpaper that turns your desktop into a digital ecosystem. It is based on an evolutionary simulation following the rules of Conway's cellular automaton: neon teams are born, mutate, and fight for survival, creating a continuously changing visual narrative right beneath your icons.</b>
+<b>Interactive live wallpaper that turns your desktop into a digital ecosystem. It is an evolutionary simulation based on Conway's Game of Life: different cellular factions spawn, mutate, and fight for survival right under your icons.</b>
 
 </p>
 
@@ -37,7 +37,7 @@
 </table>
 
 <p align="center">
-  <sub><i>* Portable application: requires no installation or administrator privileges.</i></sub>
+  <sub><i>* Portable version. Requires no installation or administrator privileges.</i></sub>
 </p>
 
 https://github.com/user-attachments/assets/179f4ab8-f667-4494-be66-70373fda137c
