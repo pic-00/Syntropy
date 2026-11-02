@@ -68,7 +68,7 @@ https://github.com/user-attachments/assets/179f4ab8-f667-4494-be66-70373fda137c
 
 ---
 
-<sub>*The application runs in demo mode with nearly full functionality. If you enjoy the project and want to support its development, you can get an activation key by donating on [Boosty](https://boosty.to/pic0)*</sub>
+<sub>*The application runs in demo mode with nearly full functionality. If you enjoy the project and want to support its development, you can get an activation key on [Boosty](https://boosty.to/pic0)*</sub>
 
 
 <br>
