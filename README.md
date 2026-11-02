@@ -45,30 +45,31 @@ https://github.com/user-attachments/assets/179f4ab8-f667-4494-be66-70373fda137c
 ## <sub>Key Features:</sub>
 
 <ul>
-  <li><sub><b>⚔️ Faction Wars:</b> Cells divide into independent teams with unique colors. They engage in continuous expansion, capture rival territories, and fight for real-time dominance.</sub></li>
-  <li><sub><b>🧬 Procedural Mutations:</b> The engine calculates the probability of spontaneous biological mutations, generating new species with their own color palettes. This makes every simulation unique.</sub></li>
-  <li><sub><b>🎨 Shader Effects:</b> A modern graphic style featuring soft bloom, chromatic aberration at the screen edges, cinematic vignette, and dynamic light rays.</sub></li>
-  <li><sub><b>🖱️ Interactive Spawning:</b> Direct the balance of power yourself. Click on the desktop to spawn new clusters of glider cells and support your chosen faction.</sub></li>
-  <li><sub><b>🌌 Space Dust:</b> Each cell death generates thousands of trailing microparticles that smoothly drift across the screen based on the laws of physics.</sub></li>
-  <li><sub><b>🌈 Adaptive Background:</b> The wallpaper's background color softly and smoothly shifts its tint, adapting to the team currently dominating the screen.</sub></li>
-  <li><sub><b>🛰️ Parallax Effect:</b> The image smoothly shifts following your mouse cursor movements, creating a deep and realistic pseudo-3D effect.</sub></li>
-  <li><sub><b>⚙️ Control Panel:</b> A convenient system tray menu (next to the clock) allows you to adjust evolution speed, AI aggression, cell size, grid gaps, bloom intensity, and other parameters.</sub></li>
+  <li><sub><b>Faction Wars:</b> Cells divide into independent, color-coded teams. They capture rival territories and fight for dominance in real time.</sub></li>
+  <li><sub><b>Procedural Mutations:</b> The engine calculates random mutation chances, generating new species with unique color palettes. No two runs are the same, and patterns never repeat.</sub></li>
+  <li><sub><b>Shader Effects:</b> Hardware-accelerated graphics featuring soft bloom, chromatic aberration at the screen edges, vignette, and dynamic light rays.</sub></li>
+  <li><sub><b>Interactive Spawning:</b> You can influence the balance of power—click on the desktop to spawn new clusters of glider cells and support your chosen faction.</sub></li>
+  <li><sub><b>Physics-based Particles:</b> Cell deaths generate microparticles that smoothly drift across the screen based on the laws of physics.</sub></li>
+  <li><sub><b>Adaptive Background:</b> The background color subtly shifts to match the tint of the currently dominant faction.</sub></li>
+  <li><sub><b>Parallax Effect:</b> The camera shifts slightly with your cursor movements, creating a subtle 3D depth effect.</sub></li>
+  <li><sub><b>Tray Control Panel:</b> Through the system tray icon (next to the clock), you can adjust evolution speed, AI aggression, cell size, grid gaps, effect intensity, etc.</sub></li>
 </ul>
 
 ## <sub>Optimization & Performance:</sub>
 
 <ul>
-  <li><sub><b>🖥️ Multi-Monitor Support:</b> Full support for multiple displays and ultra-wide screens. The live wallpaper seamlessly stretches across the entire workspace and works perfectly as a single unit across screen edges.</sub></li>
-  <li><sub><b>⚡ Architecture:</b> Written entirely in C++20 and SFML 3 without any third-party engines. All graphical effects are hardware-accelerated via custom GLSL shaders.</sub></li>
-  <li><sub><b>🚀 Run on Any Hardware:</b> The code is ultra-lightweight and highly optimized at a low level. The wallpaper will run smoothly even on a weak laptop without impacting overall system performance.</sub></li>
-  <li><sub><b>🎮 Smart Auto-Pause:</b> The wallpaper completely stops all calculations, reducing GPU and CPU load to absolute zero whenever you launch games, watch videos, or open fullscreen applications.</sub></li>
-  <li><sub><b>💾 Persistent World:</b> The application carefully serializes the current cell map. After a system reboot, the simulation resumes exactly where it left off.</sub></li>
-  <li><sub><b>🌐 Offline:</b> The application works completely offline and requires no internet connection.</sub></li>
+  <li><sub><b>Multi-Monitor Support:</b> Works seamlessly across multiple displays and ultra-wide screens, wrapping correctly around the screen edges.</sub></li>
+  <li><sub><b>Lightweight Stack:</b> Written from scratch in C++20 and SFML 3 without any heavy third-party engines. All visual effects run on custom GLSL shaders.</sub></li>
+  <li><sub><b>Zero Resource Impact:</b> Runs smoothly even on low-end laptops without impacting overall system performance.</sub></li>
+  <li><sub><b>Smart Auto-Pause:</b> The simulation pauses completely (reducing CPU/GPU load to 0%) whenever you launch games, watch videos, or open full-screen applications.</sub></li>
+  <li><sub><b>Persistent World:</b> The app automatically saves the current cell map on exit. The simulation resumes exactly where it left off after a system reboot.</sub></li>
+  <li><sub><b>100% Offline:</b> Runs entirely local and requires no internet connection.</sub></li>
 </ul>
 
 ---
 
-<sub>*🔑  The application runs in demo mode with nearly full functionality. If you enjoy the project, you can support the author with a donation on [Boosty](https://boosty.to/pic0) to receive an activation key.*</sub>
+<sub>*The application runs in demo mode with nearly full functionality. If you enjoy the project and want to support its development, you can get an activation key by donating on [Boosty](https://boosty.to/pic0)*</sub>
+
 
 <br>
 <p align="center">
