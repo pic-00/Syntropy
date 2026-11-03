@@ -65,7 +65,13 @@ https://github.com/user-attachments/assets/179f4ab8-f667-4494-be66-70373fda137c
 
 ---
 
-<sub>*Программа работает в демо-режиме с почти полным функционалом. Если вам понравился проект и вы хотите поддержать его развитие, получить ключ активации можно на [Boosty](https://boosty.to/pic0)*</sub>
+<sub>*Программа работает в демо-режиме с почти полным функционалом. Если вам понравился проект и вы хотите поддержать его развитие, получить ключ активации можно на **[Boosty](https://boosty.to/pic0)***</sub>
+
+---
+
+<sub>*Если нашли баг или есть идея — пишите в раздел **[Issues](https://github.com/pic-00/Syntropy/issues)**. По возможности прикрепляйте файл журнала (log.txt). Найти его можно здесь:*</sub><br>
+<sub>***Windows:** %localappdata%/Syntropy/log.txt*</sub><br>
+<sub>***Linux:** ~/.config/Syntropy/log.txt*</sub>
 
 
 <p align="center">
