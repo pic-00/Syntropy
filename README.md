@@ -72,7 +72,7 @@ https://github.com/user-attachments/assets/179f4ab8-f667-4494-be66-70373fda137c
 
 ---
 
-<sub>*If you found a bug or have an idea, please write to the **[Issues](https://github.com)** section. If possible, attach the log file (log.txt). You can find it here:*</sub><br>
+<sub>*If you found a bug or have an idea, please write to the **[Issues](https://github.com/pic-00/Syntropy/issues)** section. If possible, attach the log file (log.txt). You can find it here:*</sub><br>
 <sub>***Windows:** %localappdata%/Syntropy/log.txt*</sub><br>
 <sub>***Linux:** ~/.config/Syntropy/log.txt*</sub>
 
