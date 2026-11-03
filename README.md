@@ -68,7 +68,13 @@ https://github.com/user-attachments/assets/179f4ab8-f667-4494-be66-70373fda137c
 
 ---
 
-<sub>*The application runs in demo mode with nearly full functionality. If you enjoy the project and want to support its development, you can get an activation key on [Boosty](https://boosty.to/pic0)*</sub>
+<sub>*The application runs in demo mode with nearly full functionality. If you enjoy the project and want to support its development, you can get an activation key on **[Boosty](https://boosty.to/pic0)***</sub>
+
+---
+
+<sub>*If you found a bug or have an idea, please write to the **[Issues](https://github.com)** section. If possible, attach the log file (log.txt). You can find it here:*</sub><br>
+<sub>***Windows:** %localappdata%/Syntropy/log.txt*</sub><br>
+<sub>***Linux:** ~/.config/Syntropy/log.txt*</sub>
 
 
 <br>
