@@ -47,6 +47,9 @@
 </p>
 
 https://github.com/user-attachments/assets/ad8c4af9-b911-48f5-bd39-308d3067717a
+<p align="right">
+  <sub>▶️ <a href="https://youtu.be/WU6KwD5nSwY?si=145tZlsEptM37Ume">HD on YouTube ↗</a></sub>
+</p>
 
 ## <sub>Key Features:</sub>
 
