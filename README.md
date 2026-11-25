@@ -40,7 +40,7 @@
   <sub><i>* Portable version. Requires no installation or administrator privileges.</i></sub>
 </p>
 
-https://github.com/user-attachments/assets/39c45a59-f6c4-41ba-a348-7ac183804804
+https://github.com/user-attachments/assets/ad8c4af9-b911-48f5-bd39-308d3067717a
 
 ## <sub>Key Features:</sub>
 
