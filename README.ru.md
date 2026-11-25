@@ -1,5 +1,5 @@
 > [!TIP]
-> <sub> [Релизы / Инфо:](https://github.com/pic-00/Syntropy/releases) Linux v1.5 <br>
+> <sub> [Релизы / Инфо:](https://github.com/pic-00/Syntropy/releases) [25.11.26] - Linux v1.5<br>
 > *🎉 Та-да! GNOME и KDE Plasma на Wayland!*</sub>
 
 <p align="center">
