@@ -43,7 +43,7 @@
 
 https://github.com/user-attachments/assets/179f4ab8-f667-4494-be66-70373fda137c
 <p align="right">
-  <sub>▶️ <a href="https://youtu.be/WU6KwD5nSwY?si=145tZlsEptM37Ume">HD on YouTube ↗</a></sub>
+  <sub>▶️ <a href="https://youtu.be/WU6KwD5nSwY?si=145tZlsEptM37Ume">HD на YouTube ↗</a></sub>
 </p>
 ## <sub>Ключевые возможности:</sub>
 
