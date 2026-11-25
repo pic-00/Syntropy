@@ -28,10 +28,10 @@
       </a>
     </td>
     <!-- Блок Linux -->
-    <td align="center" valign="top" width="320">
+    <td align="center" valign="top" width="330">
       <a href="https://github.com/pic-00/Syntropy/releases/download/v1.5/Syntropy"><b>📥 Download for Linux</b></a>
       <br>
-      <sub><b>Wayland:</b> KDE Plasma 6 / GNOME 45+<br><b>X11:</b> KDE / GNOME / Cinnamon / MATE / Xfce</sub>
+      <sub><b>Wayland:</b> KDE Plasma 6 / GNOME 45+<br><b>X11:</b> KDE / GNOME / Cinnamon / LMDE / MATE / Xfce</sub>
       <br><br>
       <a href="https://www.virustotal.com/gui/file/5993409002e391c89f92c69624e6fcae0bcc728e3d6593ef4277b01fc9f51740">
         <img src="https://img.shields.io/badge/VirusTotal-0%2F63%20Clean-brightgreen?logo=virustotal&style=for-the-badge" alt="VirusTotal" height="24">
