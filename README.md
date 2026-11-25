@@ -11,30 +11,32 @@
 </p>
 
 <!-- DOWNLOADS -->
-<table align="center" style="border: none; border-collapse: collapse; border-spacing: 0;">
-  <tr style="border: none;">
+<table align="center">
+  <tr>
     <!-- Блок Windows -->
-    <td align="center" style="border: none; padding: 0 30px; vertical-align: top;">
+    <td align="center" valign="top" width="320">
       <a href="https://github.com/pic-00/Syntropy/releases/download/v1.5/Syntropy.exe"><b>📥 Download for Windows</b></a>
       <br>
       <sub><b>Windows 10<br>Windows 11</b></sub>
       <br><br>
       <a href="https://www.virustotal.com/gui/file/e66356f3c8f8d3a4ca45012377f17558cd4361bc0a0ab54b79754060fb5a6979">
-        <img src="https://img.shields.io/badge/VirusTotal-0%2F71%20Clean-brightgreen?logo=virustotal&style=for-the-badge" alt="VirusTotal Windows" height="24">
+        <img src="https://img.shields.io/badge/VirusTotal-0%2F71%20Clean-brightgreen?logo=virustotal&style=for-the-badge" alt="VirusTotal" height="24">
       </a>
     </td>
     <!-- Блок Linux -->
-    <td align="center" style="border: none; padding: 0 30px; vertical-align: top;">
+    <td align="center" valign="top" width="320">
       <a href="https://github.com/pic-00/Syntropy/releases/download/v1.5/Syntropy"><b>📥 Download for Linux</b></a>
       <br>
-      <sub><b>X11: KDE Plasma / LMDE<br>MATE / Cinnamon / Xfce</b></sub>
+      <sub><b>Wayland:</b> KDE Plasma 6 / GNOME 45+<br><b>X11:</b> KDE / GNOME / Cinnamon / MATE / Xfce</sub>
       <br><br>
       <a href="https://www.virustotal.com/gui/file/5993409002e391c89f92c69624e6fcae0bcc728e3d6593ef4277b01fc9f51740">
-        <img src="https://img.shields.io/badge/VirusTotal-0%2F63%20Clean-brightgreen?logo=virustotal&style=for-the-badge" alt="VirusTotal Linux" height="24">
+        <img src="https://img.shields.io/badge/VirusTotal-0%2F63%20Clean-brightgreen?logo=virustotal&style=for-the-badge" alt="VirusTotal" height="24">
       </a>
     </td>
   </tr>
 </table>
+
+
 
 <p align="center">
   <sub><i>* Portable version. Requires no installation or administrator privileges.</i></sub>
