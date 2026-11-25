@@ -1,3 +1,7 @@
+> [!TIP]
+> <sub> [Releases / Info:](https://github.com/pic-00/Syntropy/releases) [25.11.26] Linux v1.5 <br>
+> *🎉 Ta-da! GNOME and KDE Plasma on Wayland!*</sub>
+
 <p align="center">
   <b>English</b> &nbsp;|&nbsp; <a href="README.ru.md">Русский</a>
 </p>
